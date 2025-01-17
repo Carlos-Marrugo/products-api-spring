@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fcfa83cb-eb5d-4632-ba67-0779ec49a647)![Amarillo y Naranja Simple Limpio Digital Adivina la Imagen con Zoom Juego Presentación Divertida (1)]
+![Amarillo y Naranja Simple Limpio Digital Adivina la Imagen con Zoom Juego Presentación Divertida](https://github.com/user-attachments/assets/bb6d1c21-4c9c-4835-8cac-145286877138)
 
 # 🚀 FILTRA DATOS SIN ESCRIBIR SQL 😱 | SPRING BOOT API REST
 
