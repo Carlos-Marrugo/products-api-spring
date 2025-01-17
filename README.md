@@ -34,7 +34,9 @@ Este proyecto consiste en la creación de una **API REST** con **Spring Boot** q
    Desde tu IDE: Corre la clase ProductoAppApplication.
 
 🌐 Endpoints de la API
+
 1️⃣ Crear un Producto
+
 URL: POST /api/productos/crear
 Body:
 ```json
@@ -55,8 +57,11 @@ Respuesta:
 ```
 
 2️⃣ Filtrar Productos por Precio
+
 URL: GET /api/productos/menor-precio/{precio}
+
 Ejemplo: GET /api/productos/menor-precio/1000
+
 Respuesta:
 ```json
 [
@@ -69,8 +74,11 @@ Respuesta:
 ```
 
 3️⃣ Buscar Productos por Nombre
+
 URL: GET /api/productos/buscar?nombre={nombre}
-Ejemplo: GET /api/productos/buscar?nombre=Lap
+
+Ejemplo: GET /api/productos/buscar?nombre=Laptop
+
 Respuesta:
 ```json
 [
